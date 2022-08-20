@@ -3,7 +3,7 @@ class LoginController {
     login = (req, res) => {
         return res.send({
             "success": true,
-            "message": "Login sucessfully",
+            "message": "Login sucessfully personified",
             "data": []
         })
     }
